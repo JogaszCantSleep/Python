@@ -1,0 +1,4 @@
+A kör sugara: 34cm
+A kör átmérõje: 68cm
+A kör kerülete: 213.52cm
+A kör területe: 3629.84cm2

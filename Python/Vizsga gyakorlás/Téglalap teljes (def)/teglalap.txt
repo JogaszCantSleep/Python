@@ -1,0 +1,4 @@
+A téglalap 'a' oldala: 4 cm
+A téglalap 'b' oldala: 6 cm
+A téglalap kerülete: 20 cm2
+A téglalap területe: 24 cm3
